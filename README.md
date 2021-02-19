@@ -15,7 +15,9 @@ gamification portion of the webpage. this will help those users who are studying
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. 
 These files should themselves either be included as a pdf file in the project itself (in an separate directory)
-Include the Adobe XD wireframe as a folder. You can include the XD share url. 
+Include the Adobe XD wireframe as a folder. You can include the XD share url.
+
+Wireframe high fidel - https://xd.adobe.com/view/4d20962c-7342-4ba1-9e62-b03c2665503b-1873/
 
 ## Features
  
